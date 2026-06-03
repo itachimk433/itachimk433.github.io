@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mkdev.qrscanner",
+      "sha256_cert_fingerprints": [
+        "AD:79:96:70:A7:61:30:F5:8E:47:00:DA:85:91:40:49:D0:C6:C7:49:3B:0E:77:2C:A9:47:6A:9B:86:AF:18:44"
+      ]
+    }
+  }
+]
